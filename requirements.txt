@@ -1,0 +1,31 @@
+# Core
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+plotly
+statsmodels
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+tensorflow
+transformers
+
+# Jupyter
+jupyter
+notebook
+jupyterlab
+
+# Utils
+tqdm
+joblib
+python-dotenv
